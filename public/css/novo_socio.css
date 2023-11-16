@@ -1,0 +1,246 @@
+
+.section-cadastro-socio{
+    padding: 30px 0px 50px 0px;
+}
+
+.container-form-cadastro-etapa-01{
+    margin: 100px auto;    background: white;
+    position: relative;
+    /* margin-top: -160px; */
+
+    border: 1px solid rgba(0,0,0,.125);
+    box-shadow: 0px 4px 4px 4px rgba(5,8,0,0.08);
+    -webkit-box-shadow: 0px 13px 0px -5px rgba(224,224,224,1);
+    -moz-box-shadow: 0px 13px 0px -5px rgba(224,224,224,1);
+    box-shadow: 0px 13px 0px -5px rgba(224,224,224,1);
+    border-radius: 0px;
+}
+
+.form-cadastro{
+    /* position: relative;
+    top: -180px;
+    background: black; */
+    z-index: 99999;
+}
+.header-cadastro{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.instrucoes-cadastro{
+    padding: 20px;
+    /* background: rgba(69, 202, 255, 0.253) ; */
+    margin-bottom: 40px;
+}
+.caption-instrucoes{
+    font-size: 16px !important;
+    font-weight: 600 ;
+}
+.blockquote-footer{
+    font-size: 13px;
+}
+.asterisco-cadastro{
+    color: crimson;
+}
+
+/* Config Caption Form */
+
+
+/* Config Plano no Cadastro */
+.plano-titulo{
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.plano-descricao{
+    font-size: 0.8em;
+    display: block;
+}
+
+.titulo-vantagens{
+    font-size: 1rem;
+    font-weight: 500;
+}
+.list_vantagens>li{
+    font-size: .7em;
+    margin-bottom: 8px;
+}
+.valor_plan{
+    position: relative;
+    font-weight: 900;
+    font-size: 3.9em;
+    /* top: -45px; */
+    color: #dc3545;
+}
+.mensais_plan{
+    font-size: 0.8em;
+    color: #999;
+
+    /* //font-weight: 500; */
+}
+.cifrao_plan{
+    font-size: 0.40em;
+    font-weight: 500;
+    position: absolute;
+    left: -36px;
+    top: 20px;
+    /* left: px; */
+}
+.validade{
+    font-size: 12px;
+}
+
+/* .container-avisos{
+    margin: 0px 30px 30px 30px;
+    padding: 0px 50px;
+} */
+
+/* CONFIRM CADASTRO */
+.content-popup{
+    padding:65px 50px !important;
+    /* margin-bottom:30px; */
+    width:300px !important;
+}
+.popup-type-text{
+    font-weight: 700;
+    font-size: 1.8em;
+    color: green;
+    /* text-transform: uppercase; */
+    /* max-width: 50%; */
+    margin: 5px auto;
+    padding: 10px 5px;
+    text-align: center;
+}
+.popup-title{
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: rgb(82, 81, 81);
+    /* text-transform: uppercase; */
+    /* max-width: 50%; */
+    margin: 10px auto;
+    padding: 10px 5px;
+    text-align: center;
+}
+.popup-text{
+    font-size: .9em;
+    color: rgb(83, 83, 83);
+    /* max-width: 50%; */
+    text-align: center;
+    padding: 0px 0px 30px 0px
+}
+.container-icon{
+    width: 100%;
+    height: 130px;
+    padding: 20px 0px;
+}
+.icon-success{
+    position: relative;
+    width:60px;
+    height: 60px;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    /* background: #F2F2F2; */
+    margin: 0 auto;
+    margin-bottom: 10px;
+    border: 1px solid green;
+    /* box-shadow: 5px 5px blue, 10px 10px red, 15px 15px green; */
+}
+.icon-success i{
+    font-size: 2.8rem;
+    position: relative;
+    left: 50%;
+    top: 60%;
+    transform: translate(-72%, -60%);
+    color: green;
+}
+.btn-acessar-conta{
+    /* padding: 10px 30px;
+    text-transform: uppercase;
+    font-size: .8em; */
+    border-radius: 30px
+}
+
+.btn-cadastrar{
+    width: 100%;
+}
+
+/* Instrução Form */
+.instrucao-form{
+    background: #fff;
+    padding: 5px 40px;
+    margin-bottom: 20px;
+}
+.instrucao-form .blockquote{
+    background: #fff;
+    padding: 5px 20px;
+}
+
+/* Detalhes */
+.detalhe-plano{
+    /* border-left: 1px solid #ddd !important; */
+    background: #fff;
+    padding: 30px 40px;
+    /* height: 100vh; */
+}
+.detalhe-plano ul li {
+    display: block;
+    font-size: 12px;
+    border-bottom: 1px dashed #e9e9e9;
+    padding: 15px 0px;
+}
+.detalhe-plano ul li span{
+    float: right;
+    font-size: 14px;
+    font-weight: 700;
+}
+.hr-detalhe-pedido{
+    border: 1px solid #e9e9e9;
+    margin: 20px 0px;
+}
+
+.box-shadom-generico{
+    background: #fff;
+    -webkit-box-shadow: 0 4px 9px 0 rgba(67,65,79,.1);
+    box-shadow: 0 4px 9px 0 rgba(67,65,79,.1);
+}
+
+
+/* Container Form */
+.container-form{
+    padding: 50px 60px;
+
+    /* height: 88.5vh; */
+}
+.hr-form-cadstro{
+    border: 1px solid #e9e9e9;
+    margin-bottom: 30px;
+}
+.diviser_form_socio{
+    font-size: 12px;
+    color: #D91E18 ;
+    border-bottom: 1px dotted #ddd;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    margin-top: 2px;
+}
+
+.input-field div.error{
+    position: relative;
+    /* top: -1rem; */
+    left: 0rem;
+    font-size: 0.8rem;
+    color:#FF4081;
+    -webkit-transform: translateY(0%);
+    -ms-transform: translateY(0%);
+    -o-transform: translateY(0%);
+    transform: translateY(0%);
+  }
+  .input-field label.active{
+      width:100%;
+  }
+
+/* DevExpress */
+.dx-field-item-label-text {
+    color: #dc3545 !important;
+}
