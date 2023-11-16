@@ -3,7 +3,7 @@
 - Desenvolvimento com PHP(Laravel)
 - Banco de dados Mysql e Postgres
 
-Consome API, tambem criada em Laravel para acesso a criação de checkout no gateway da GerenciaNet/EFI
+Consome API, tambem criada em Laravel (etorcedor-admin), para acesso a criação de checkout no gateway da GerenciaNet/EFI
 
 Veja abaixo algumas telas:
 
