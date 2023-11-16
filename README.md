@@ -1,6 +1,6 @@
 #Portal Socio Torcedor
 
-- Desenvolvimento com PHP(Laravel)
+- Desenvolvimento com PHP(Laravel 5.8)
 - Banco de dados Mysql e Postgres
 
 Consome API, tambem criada em Laravel (etorcedor-admin), para acesso a criação de checkout no gateway da GerenciaNet/EFI
